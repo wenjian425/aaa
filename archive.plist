@@ -17,13 +17,13 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://down.dsu03.com/enterprise/57.png</string>
+					<string>http://img.piaosugo.com/v2/m_20181014_3891/m_20181014_3891.jpg</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://down.dsu03.com/enterprise/512.png</string>
+					<string>http://img.piaosugo.com/v2/m_20181014_3891/m_20181014_3891.jpg</string>
 				</dict>
 			</array>
 			<key>metadata</key>
