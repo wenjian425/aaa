@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://app.beijingj.com/KKPack/巅峰棋牌.ipa</string>
+					<string>http://192.168.0.28:8080/game_management/%E5%B7%85%E5%B3%B0%E6%A3%8B%E7%89%8C.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
